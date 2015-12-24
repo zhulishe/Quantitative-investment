@@ -1,0 +1,6 @@
+*.pyc
+*~
+.idea/
+*.py～
+my_performance.pyc
+files/
